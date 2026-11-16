@@ -7,7 +7,8 @@ without rainfall forecast and LSTM forced with observed rainfall), the evaluatio
 
 > **Note:** the LSTM model is the subject of a separate, not yet published study. The trained networks are
 > provided only to reproduce the results of this manuscript during peer review. Please do not redistribute
-> them or use them for other purposes.
+> them or use them for other purposes. The networks are excluded from the MIT License of this repository
+> (see [LICENSE](../LICENSE)).
 
 ## Requirements
 

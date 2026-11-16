@@ -1,20 +1,21 @@
 # Requires Python 3.9 or higher
+# Saving the animations (animation.mp4) also requires ffmpeg installed on the system.
 
 numpy
 pandas
+openpyxl
 xarray
+zarr
+netCDF4
 rioxarray
 rasterio
 geopandas
+pyproj
 matplotlib
-plotly
 contextily
 scipy
 scikit-image
-zarr
-loguru
-properscoring
 pysteps
 tqdm
-cartopy
 requests
+jupyter

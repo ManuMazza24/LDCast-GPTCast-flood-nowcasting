@@ -7,21 +7,22 @@ dependencies:
   - python>=3.9
   - numpy
   - pandas
+  - openpyxl
   - xarray
+  - zarr
+  - netcdf4
   - rioxarray
   - rasterio
   - geopandas
+  - pyproj
   - matplotlib
-  - plotly
   - contextily
   - scipy
   - scikit-image
-  - zarr
-  - cartopy
   - requests
+  - ffmpeg
+  - jupyter
   - pip
   - pip:
-      - loguru
-      - properscoring
       - pysteps
       - tqdm

@@ -259,7 +259,8 @@ assert(all(found));
 end
 
 function m = metrics(s, o)
-r     = corr(s, o);
+c     = corrcoef(s, o);   % Pearson correlation (base MATLAB, no Statistics Toolbox needed)
+r     = c(1, 2);
 beta  = mean(s) / mean(o);
 alpha = std(s) / std(o);
 gamma = (std(s)/mean(s)) / (std(o)/mean(o));
