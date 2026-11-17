@@ -1,6 +1,6 @@
 <div align="center">
 
-# Radar-based Flood Nowcasting Using Machine Learning Algorithms: An Application in the Hydraulic Node of Milan
+# Toward Fully AI-Based Flood Forecasting: Coupling Machine Learning Radar Nowcasting and Data-Driven Hydrological Modelling
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Numpy](https://img.shields.io/badge/Numpy-✔-blue)](https://numpy.org/)
@@ -33,9 +33,9 @@ The repository includes methods for:
 - Center of Mass and Cumulative Precipitation Analysis
 - Hydrological evaluation: water-level forecasts of the Seveso River at **Palazzolo** obtained by driving LSTM networks with LDCast and GPTCast nowcasts (lead times of 10 – 60 min), compared with benchmarks (persistence, LSTM without rainfall forecast, LSTM forced with observed radar and rain-gauge rainfall) through NSE, KGE, KGE', peak error and peak timing error
 
-Code release for the paper **"DA AGGIUNGERE"**
+Code release for the paper **"Toward Fully AI-Based Flood Forecasting: Coupling Machine Learning Radar Nowcasting and Data-Driven Hydrological Modelling"**
 
-Paper: [\AGGIUNGERE]()
+Paper: [\Toward Fully AI-Based Flood Forecasting: Coupling Machine Learning Radar Nowcasting and Data-Driven Hydrological Modelling]()
 
 Data: [\AGGIUNGERE]()
 
