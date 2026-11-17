@@ -1,4 +1,4 @@
-name: LDCast-GPTCast-eval
+name: LDCast-GPTCast-flood-nowcasting
 channels:
   - conda-forge
   - defaults

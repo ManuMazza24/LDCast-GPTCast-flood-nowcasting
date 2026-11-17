@@ -82,8 +82,8 @@ flowchart LR
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<username>/LDCast-GPTCast-performance-evaluation.git
-cd LDCast-GPTCast-performance-evaluation
+git clone https://github.com/<username>/LDCast-GPTCast-flood-nowcasting.git
+cd LDCast-GPTCast-flood-nowcasting
 pip install -r requirements.txt
 ```
 
@@ -91,7 +91,7 @@ Or, with Conda:
 
 ```bash
 conda env create -f environment.yml
-conda activate LDCast-GPTCast-eval
+conda activate LDCast-GPTCast-flood-nowcasting
 ```
 
 Saving the animations (`animation.mp4`) requires [ffmpeg](https://ffmpeg.org/): it is included in the Conda environment, while with `pip` it must be installed separately.
